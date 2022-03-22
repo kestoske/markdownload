@@ -61,6 +61,12 @@
       },
       "description": "Save current tab as Markdown"
     },
+    "copy_selection_as_markdown": {
+      "suggested_key": {
+        "default": "Alt+C"
+      },
+      "description": "Copy selection as Markdown"
+    },
     "copy_tab_as_markdown": {
       "suggested_key": {
         "default": "Alt+Shift+C"
@@ -76,7 +82,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "{1c5e4c6f-5530-49a3-b216-31ce7d744db0}",
+      "id": "{4cb7d44d-9377-4c92-89e5-71cee94a1390}",
       "strict_min_version": "65.0"
     }
   }
